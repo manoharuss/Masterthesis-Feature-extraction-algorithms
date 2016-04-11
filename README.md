@@ -1,5 +1,5 @@
 # Masterthesis-Feature-extraction-algorithms
-#K-Nearest neighbor image retrieval coupled with different feature extraction algorithms to manipulate score
+#Nearest neighbor image retrieval coupled with different feature extraction algorithms to manipulate score
 
 
 The Matlab .m files and the CBIR implementation using the feature extraction algorithms are part of my the Master thesis.
