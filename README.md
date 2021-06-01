@@ -1,4 +1,4 @@
-# Masterthesis-Feature-extraction-algorithms
+# Implementation and comparison of content based image retrieval methods
 #### Nearest neighbor image retrieval coupled with different feature extraction algorithms to manipulate score
 
 
